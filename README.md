@@ -21,4 +21,4 @@ This case Study Contains Tries to compare results of several algorithms mentione
 * KNN
 * Decision Tree
 
- * Download the data set from above specified URL and save it in same directory.
+ Download the data set from above specified URL and save it in same directory.
